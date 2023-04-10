@@ -43,3 +43,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Particles
+    uniqueID: 189848497
+    locked: 0
+  - name: Sprites
+    uniqueID: 2988256849
+    locked: 0
